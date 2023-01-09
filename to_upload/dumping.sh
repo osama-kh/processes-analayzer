@@ -1,1 +1,0 @@
-sudo gcore -o cores/core 1
